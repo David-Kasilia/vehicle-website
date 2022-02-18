@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+}
+
+.menu-bar {
+    background-color: black;
+    color: white;
+    margin: -10px -0px 0px -15px;
+    padding: 30px 0px 30px 10px;
+}
+
+.home {
+    float: left;
+    margin: 0px 500px;
+}
+
+.wallpaper {
+    float: left;
+    margin: 0px 0px 0px -450px;
+}
+
+.explore {
+    float: left;
+    margin: 0px 0px 0px -300px;
+}
+
+.header {
+    background-image: url("./images/quality-image.gif");
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100% 100%;
+    min-height: 80vh;
+    margin: -30px -0px 0px -10px;
+}
+
+.header-text {
+    margin: -0px 150px;
+    font-family: "Roboto Serif", Lato, Roboto;
+    font-size: 25px;
+}
+
+.header-p {
+    margin: 0px 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.intro {
+    background-image: url("./images/Top-15-Best-Sports-Cars-Power-Luxury-and-Design-Chiron.jpeg");
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 95vh;
+    margin: -30px -0px 0px 150px;
+}
+
+.intro-text {
+    margin: 0px 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
